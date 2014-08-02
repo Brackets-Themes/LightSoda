@@ -1,20 +1,20 @@
 {
     "title": "DarkSoda",
-    "name": "dark_soda_theme",
-    "description": "The Dark soda light Theme for Brackets!",
+    "name": "light_soda_theme",
+    "description": "The LightSoda light theme for Brackets!",
     "version": "0.0.2",
     "author": "Denisov21",
-    "homepage": "https://github.com/Brackets-Themes/DarkSoda",
+    "homepage": "https://github.com/Brackets-Themes/LightSoda",
     "repository": {
         "type": "git",
-        "url": "git@github.com:Brackets-Themes/DarkSoda.git"
+        "url": "git@github.com:Brackets-Themes/LightSoda.git"
     },
     "license": "MIT",
     "engines": {
         "brackets": ">=0.42.0"
     },
     "theme": {
-        "file": "dark-soda.css"
+        "file": "light-soda.css"
     },
     "screenshot": "screenshot.png",
     "screenshot": "CSS.png"
