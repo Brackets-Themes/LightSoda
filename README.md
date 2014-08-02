@@ -22,8 +22,8 @@ Visit http://brackets-themes.github.io/ to see the latest install instructions.
 
 # Screenshot
 
-## HTML
+### HTML
 
-## CSS
+### CSS
 
-## JavaScript
+### JavaScript
