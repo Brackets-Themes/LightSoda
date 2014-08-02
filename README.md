@@ -1,7 +1,7 @@
-Earth Theme
+Dark_soda
 ===========
 
-* The Earth Dark Theme for Brackets!
+* The Dark_soda Dark Theme for Brackets!
 
 How to install
 ==========================
@@ -24,4 +24,3 @@ License
 Screenshot
 ==========================
 
-![earth](https://raw.githubusercontent.com/Brackets-Themes/Earth/master/screenshot.png)
