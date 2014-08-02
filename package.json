@@ -1,13 +1,13 @@
 {
     "title": "Dark soda",
-    "name": "dark-soda theme",
-    "description": "The Earth Dark Theme for Brackets!",
+    "name": "dark_soda_theme",
+    "description": "The Dark soda is a Theme for Brackets!",
     "version": "0.0.1",
     "author": "Denisov21",
-    "homepage": "https://github.com/Brackets-Themes/Dark-soda",
+    "homepage": "https://github.com/Brackets-Themes/Dark_soda",
     "repository": {
         "type": "git",
-        "url": "git@github.com:Brackets-Themes/Dark-soda.git"
+        "url": "git@github.com:Brackets-Themes/Dark_soda.git"
     },
     "license": "MIT",
     "engines": {
@@ -17,5 +17,5 @@
         "file": "dark-soda.css",
         "dark": true
     },
-    "screenshot": "screenshot.png"
+    
 }
