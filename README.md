@@ -1,7 +1,7 @@
 # DarkSoda
 
 
-* The DarkSoda Dark Theme for Brackets!
+* The LightSoda Light Theme for Brackets!
 
 # How to install
 
@@ -23,7 +23,8 @@ Visit http://brackets-themes.github.io/ to see the latest install instructions.
 # Screenshot
 
 ### HTML
+![soda](https://raw.githubusercontent.com/Brackets-Themes/LightSoda/master/screenshot.png)
 
 ### CSS
 
-### JavaScript
+![soda](https://raw.githubusercontent.com/Brackets-Themes/LightSoda/master/CSS.png)
