@@ -35,12 +35,6 @@
     background: #0f0f0f;
 }
 
-#status-bar{ /* Bottom status bar */
-    border-top:1px solid #484b4d;
-    background:#3C3F41;
-    color:#FFF;
-}
-
 #main-toolbar{ background:#3C3F41;}
 
 .inline-widget{ /* Quick-edit styles */
