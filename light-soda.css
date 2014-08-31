@@ -8,7 +8,7 @@
 .CodeMirror,
 .cm-s-dark-soda .CodeMirror-scroll{
     border-color: #202020;
-    background-color: #242424;
+    background-color: #3C3F41;
 }
 
 
@@ -61,59 +61,6 @@
     border-left: 1px solid rgb(0, 0, 0);
     border-right: 1px solid rgb(73, 73, 73);
 }
-
-/* changes to the related container */
-
-.related-container {
-    float: right;
-    position: relative;
-    min-height: 100%;
-    font-family: 'SourceSansPro', Helvetica, Arial, "Meiryo UI", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
-    width: 250px;
-    max-width: 50%;
-    overflow: hidden;
-    background: rgb(47, 47, 47);
-}
-
-.related-container .selection {
-    width: 100%;
-    background: rgb(111, 111, 111);
-    position: absolute;
-    -webkit-transition: height 0.1s ease-out;
-    -webkit-transition: top 0.1s ease-out;
-    border-top: 1px solid rgb(95, 95, 95);
-    border-bottom: 1px solid rgb(114, 114, 114);
-    top: 12px;
-}
-
-.related-container .related .selected {
-    color: rgb(236, 236, 236);
-    -webkit-transition: color 0.1s ease-out 0.15s;
-}
-.related-container .selection:before {
-    content: " ";
-    position: absolute;
-    width: 0;
-    height: 0;
-    border-top: 9px solid rgba(255, 255, 255, 0);
-    border-bottom: 9px solid rgba(255, 255, 255, 0);
-    border-left: 9px solid rgb(51, 51, 51);
-    margin-top: -9px;
-    top: 50%;
-    -ms-transform: scaleX(0.9);
-    -moz-transform: scaleX(0.9);
-    -webkit-transform: scaleX(0.9);
-    -o-transform: scaleX(0.9);
-    transform: scaleX(0.9);
-    -ms-transform-origin: left top;
-    -moz-transform-origin: left top;
-    -webkit-transform-origin: left top;
-    -o-transform-origin: left top;
-    transform-origin: left top;
-}
-
-
-/* End of related container changes */
 
 #not-editor:before {
     content: " ";
@@ -203,38 +150,38 @@ code {
 }
 
 .CodeMirror-selected {
-    background: #3d3d3d;
-   /* opacity: .23;*/
+    background: rgb(61, 61, 61);
+   
 }
 
-.cm-s-dark-soda span.cm-keyword {color: #ff007f;}
-.cm-s-dark-soda span.cm-atom {color: #c48cff;}
-.cm-s-dark-soda span.cm-number {color: #c48cff;}
-.cm-s-dark-soda span.cm-def {color: #fd963f;}
-.cm-s-dark-soda span.cm-variable {color: #fff;}
-.cm-s-dark-soda span.cm-variable-2 {color: #c48cff;}
-.cm-s-dark-soda span.cm-property {color: #52e3f6;}
-.cm-s-dark-soda span.cm-operator {color: #ff007f;}
-.cm-s-dark-soda span.cm-comment {color: #8c8c8c;}
-.cm-s-dark-soda span.cm-string {color: #ece47e;}
-.cm-s-dark-soda span.cm-string-2 {color: #ece47e;}
-.cm-s-dark-soda span.cm-meta {color: #a7ec21;}
-.cm-s-dark-soda span.cm-qualifier, .CodeMirror span.cm-builtin {color: #a7ec21;}
-.cm-s-dark-soda span.cm-bracket {color: #f9faf4;}
-.cm-s-dark-soda span.cm-tag {color: #ff007f !important;}
-.cm-s-dark-soda span.cm-attribute {color: #a7ec21;}
-.cm-s-dark-soda span.cm-matchhighlight {background-color: rgba(61,61,61,23);}
+.cm-keyword {color: #ff007f;}
+.cm-atom {color: #c48cff;}
+.cm-number {color: #c48cff;}
+.cm-def {color: #fd963f;}
+.cm-variable {color: #fff;}
+.cm-variable-2 {color: #c48cff;}
+.cm-property {color: #52e3f6;}
+.cm-operator {color: #ff007f;}
+.cm-comment {color: #8c8c8c;}
+.cm-string {color: #ece47e;}
+.cm-string-2 {color: #ece47e;}
+.cm-meta {color: #a7ec21;}
+.cm-qualifier, .CodeMirror span.cm-builtin {color: #a7ec21;}
+.cm-bracket {color: #f9faf4;}
+.cm-tag {color: #ff007f !important;}
+.cm-attribute {color: #a7ec21;}
+.cm-matchhighlight {background-color: rgba(61,61,61,23);}
 
-.cm-s-dark-soda span.CodeMirror-matchingbracket {
+.CodeMirror-matchingbracket {
     color: #a7ec21;
 }
 
-.cm-s-dark-soda span.CodeMirror-matchingtag {
+.CodeMirror-matchingtag {
     background: rgba(255,255,255,0.15);
 }
 
 
-.cm-s-dark-soda span.CodeMirror-searching {
+.CodeMirror-searching {
   box-shadow: 0 0 0 1px #fff;
 }
 
@@ -247,11 +194,11 @@ code {
     padding-left: 18px;
 }
 
-.cm-s-dark-soda span.cm-matchhighlight.CodeMirror-searching.CodeMirror-selectedtext {
+.cm-matchhighlight.CodeMirror-searching.CodeMirror-selectedtext {
     background-color: #ffe69d;
     color: #242424;
 }
-.cm-s-dark-soda.CodeMirror-focused .CodeMirror-activeline-background, .cm-s-dark-soda.CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
-    background-color: #3C3F41;
+.CodeMirror-focused .CodeMirror-activeline-background, .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
+    background-color: rgb(60, 63, 65);
     color: #d9d9d9;
 }
