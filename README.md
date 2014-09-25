@@ -1,7 +1,7 @@
 # LightSoda
 
 
-* The LightSoda is a Light Theme for Brackets!
+* The LightSoda Light Theme for Brackets!
 
 # How to install
 
