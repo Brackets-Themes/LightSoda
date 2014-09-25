@@ -23,8 +23,14 @@ Visit http://brackets-themes.github.io/ to see the latest install instructions.
 # Screenshot
 
 ### HTML
-![soda](https://raw.githubusercontent.com/Brackets-Themes/LightSoda/master/screenshot.png)
+
+![HTML Screenshot](https://github.com/Brackets-Themes/LightSoda/blob/master/screenshots/HTML.png)
 
 ### CSS
 
-![soda](https://raw.githubusercontent.com/Brackets-Themes/LightSoda/master/CSS.png)
+![CSS Screenshot](https://github.com/Brackets-Themes/LightSoda/blob/master/screenshots/CSS.png)
+
+### JavaScript
+
+![JS Screenshot](https://github.com/Brackets-Themes/LightSoda/blob/master/screenshots/JS.png)
+

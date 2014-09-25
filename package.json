@@ -2,7 +2,7 @@
     "title": "LightSoda",
     "name": "light_soda_theme",
     "description": "The LightSoda light theme for Brackets!",
-    "version": "0.0.4",
+    "version": "0.1.0",
     "author": "Denisov21",
     "homepage": "https://github.com/Brackets-Themes/LightSoda",
     "repository": {
@@ -11,7 +11,7 @@
     },
     "license": "MIT",
     "engines": {
-        "brackets": ">=0.42.0"
+        "brackets": ">=0.43.0"
     },
     "theme": {
         "file": "light-soda.css"
