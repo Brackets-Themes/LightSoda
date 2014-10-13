@@ -52,3 +52,7 @@ v 0.1.0
 * change .cm-tag remove !important
 * Add color in .CodeMirror .CodeMirror-linenumber
 * Change .CodeMirror-matchingtag
+
+v 0.1.1
+
+* Remove !important in  .CodeMirror-cursor and .CodeMirror .CodeMirror-overwrite .CodeMirror-cursor
