@@ -60,3 +60,8 @@ v 0.1.1
 v 0.1.2
 
 * Remove main.js in Brackets 1.0.0
+
+v 0.1.5
+
+* Update Screeshot
+* Update Code Folding (https://github.com/thehogfather/brackets-code-folding) and Brackets 1.3 (Code Folding)
